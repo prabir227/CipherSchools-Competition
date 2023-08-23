@@ -20,6 +20,6 @@ int main(){
             }
         }
     }
-    cout<<"The required output is: "<<condition;
+    cout<<"The required output is: "<<condition<<endl;
     return 0;
 }
